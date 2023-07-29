@@ -1,13 +1,14 @@
-## About Me
+## ✨ About Me
 
-Hello! I'm Lilith, not yet an enthusiastic software developer, but perhaps soon. I'm constantly learning with **Python**.
+Hello! I'm Lilith, not yet an enthusiastic software developer, but perhaps soon. I'm constantly learning with <span style="color:green">Python</span>.
 
-- I create animations with **Manim**.
-- Interested in data science with **Python**.
-- Willing to **collaborate** and learn from other **developers**.
-- Always ready to lend a **helping** hand wherever I can.
+- I create animations with <span style="color:green">Manim</span>.
+- Interested in data science with <span style="color:green">Python</span>.
+- Willing to <span style="color:green">collaborate</span> and learn from other <span style="color:green">developers</span>.
+- Always ready to lend a <span style="color:green">helping</span> hand wherever I can.
 
-Feel free to contact me for any exciting **projects** or **collaborations**!
+Feel free to contact me for any exciting <span style="color:green">projects</span> or <span style="color:green">collaborations</span>!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbstractLilith) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbstractLilith) 
