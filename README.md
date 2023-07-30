@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Hallo! I'm Lilith, not yet a software developer, but perhaps soon.
 
@@ -42,3 +42,7 @@ Feel free to contact me for any exciting **projects** or **collaborations**!
 - Microsoft **Azure**:
   - Cloud service deployment and configuration
   - Experience with services like Azure Functions, Azure App Service, etc.
+
+>"*Hell is living each day without knowing the reason for your existence*".
+>
+>*-Johan Liebert*
