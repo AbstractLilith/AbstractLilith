@@ -43,6 +43,7 @@ Feel free to contact me for any exciting **projects** or **collaborations**!
   - Cloud service deployment and configuration
   - Experience with services like Azure Functions, Azure App Service, etc.
 
+
 >"*Hell is living each day without knowing the reason for your existence*".
 >
 >*-Johan Liebert*
