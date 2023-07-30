@@ -1,4 +1,4 @@
-## ✨ About Me
+## About Me
 
 Hallo! I'm Lilith, not yet a software developer, but perhaps soon.
 
@@ -9,5 +9,36 @@ Hallo! I'm Lilith, not yet a software developer, but perhaps soon.
 
 Feel free to contact me for any exciting **projects** or **collaborations**!
 
-# 💻 Tech Stack:
-![Python]![NumPy]![PyTorch]![SciPy]![Pandas]![Plotly]![C++]![LaTeX]![Azure]![Adobe Audition]![Adobe Illustrator]![Adobe Photoshop]![Canva]![Adobe Premiere Pro]![Adobe Lightroom]![Docker]![Notion]
+# Skills and Languages
+
+## Technical Skills
+
+- **Python** Development with advanced knowledge in:
+  - **NumPy**
+  - **SciPy**
+  - **Matplotlib**
+  - **Pandas**
+
+- **C++** Programming with experience in:
+  - Data structures
+  - Algorithms
+  - High-performance application development
+
+- **Notion** Usage:
+  - Project management
+  - Note-taking and organization
+
+- **LaTeX**:
+  - Creating technical and scientific documents
+
+- Microsoft **Excel**:
+  - Data analysis and report generation
+
+## Technologies and Platforms
+
+- **Docker**:
+  - Container creation and management
+
+- Microsoft **Azure**:
+  - Cloud service deployment and configuration
+  - Experience with services like Azure Functions, Azure App Service, etc.
